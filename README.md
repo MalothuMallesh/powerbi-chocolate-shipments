@@ -1,4 +1,4 @@
-# Mallesh Power BI Project — Chocolate Shipments Analysis
+#  Power BI Project — Chocolate Shipments Analysis
 
 A Power BI project built on chocolate shipment sales data, covering data prep, modeling, DAX, and report design end-to-end.
 
@@ -75,7 +75,3 @@ A Power BI project built on chocolate shipment sales data, covering data prep, m
 - Power BI Desktop / Power BI Service
 - Power Query (M)
 - DAX
-
-## 📄 License
-
-Add a license of your choice (e.g., MIT) if you want others to reuse this work.
